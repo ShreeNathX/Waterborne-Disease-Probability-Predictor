@@ -1,0 +1,11 @@
+E_coli,Total_Coliforms,Enterococci,Turbidity,Residual_Chlorine,Nitrate,Disease_Risk
+927,447,69,13.36,0.21,1.1,Dysentery
+44,3882,18,32.45,0.38,19.74,HepatitisA
+325,419,1,10.61,0.2,7.25,Diarrhea
+29,4831,31,6.54,0.6,19.31,Typhoid
+61,3464,17,63.85,0.09,8.09,HepatitisA
+97,3713,40,7.2,0.47,19.37,Typhoid
+404,1397,10,8.24,0.42,12.67,Diarrhea
+235,432,8,12.58,0.48,9.8,Diarrhea
+444,908,6,19.26,0.2,1.67,Diarrhea
+60,2177,29,6.89,0.67,18.61,Typhoid
